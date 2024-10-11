@@ -57,10 +57,10 @@ public class CircularPrime
         }
         
         if (isCircularPrime) {
-            System.out.println(n + " IS A CIRCULAR PRIME.");
+            System.out.println(n + " IS A CIRCULAR PRIMExxxxxxxxxxxxxxxxxx.");
         }
         else {
-            System.out.println(n + " IS NOT A CIRCULAR PRIME.");
+            System.out.println(n + " IS NOT A CIRCULAR PRIMExxxxxxxxxxxxxxxxxxx.");
         }
         
     }
